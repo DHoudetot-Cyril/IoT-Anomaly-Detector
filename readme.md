@@ -1,6 +1,8 @@
-![alt text](image.png)
+
 
 # 🚀 Détection d’anomalies IoT avec Isolation Forest
+![alt text](image.png)
+<img width="1180" height="615" alt="image" src="https://github.com/user-attachments/assets/e094cfee-0db0-483e-83f5-6f8eac665033" />
 
 Ce projet illustre une méthode simple et robuste pour **détecter des anomalies** dans des données simulées de capteurs IoT (température, humidité, pression).  
 Il utilise **Scikit-learn** pour le modèle de détection et **Streamlit** pour l’interface interactive.
